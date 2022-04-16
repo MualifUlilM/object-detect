@@ -1,0 +1,16 @@
+item { 
+	name:'kardus'
+	id:1
+}
+item { 
+	name:'kaca'
+	id:2
+}
+item { 
+	name:'kertas'
+	id:3
+}
+item { 
+	name:'plastik'
+	id:4
+}

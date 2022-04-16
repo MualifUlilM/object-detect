@@ -1,0 +1,26 @@
+<annotation>
+	<folder>glass</folder>
+	<filename>glass26.jpg</filename>
+	<path>C:\Users\Dwiky\Documents\Skripsi\dataset\glass\glass26.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>384</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>kaca</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>49</xmin>
+			<ymin>38</ymin>
+			<xmax>438</xmax>
+			<ymax>319</ymax>
+		</bndbox>
+	</object>
+</annotation>
